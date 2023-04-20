@@ -1,0 +1,3 @@
+<launch>
+        <node pkg="color_localization" type="findLines.py" name="Color_lane_Following" output="screen"/>
+</launch>
